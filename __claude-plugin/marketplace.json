@@ -1,6 +1,10 @@
 {
   "name": "patricks-marketplace",
   "description": "Patrick's curated collection of Claude Code plugins for everyday developer workflows.",
+  "owner": {
+    "name": "Patrick",
+    "email": "patrick@vanleuveren.nl"
+  },
   "plugins": [
     {
       "name": "ppp",
