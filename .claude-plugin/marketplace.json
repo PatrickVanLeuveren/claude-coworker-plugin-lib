@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "ppp",
-      "source":  "./plugins/ppp",
+      "source":  "./plugins/ppp-plugin",
       "description": "Provides the hupseflupsie skill — writes Hello World and the current date/time to stdout on demand."
     }
   ]
