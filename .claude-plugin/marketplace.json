@@ -1,0 +1,11 @@
+{
+  "name": "patricks-marketplace",
+  "description": "Patrick's curated collection of Claude Code plugins for everyday developer workflows.",
+  "plugins": [
+    {
+      "name": "ppp",
+      "source":  "./plugins/ppp",
+      "description": "Provides the hupseflupsie skill — writes Hello World and the current date/time to stdout on demand."
+    }
+  ]
+}
