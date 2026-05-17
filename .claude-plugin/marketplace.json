@@ -9,7 +9,7 @@
     {
       "name": "ppp",
       "source":  "./plugins/ppp-plugin",
-      "description": "Provides the hupseflupsie skill — writes Hello World and the current date/time to stdout on demand."
+      "description": "Provides a number of sample skills and capabilities to learn."
     }
   ]
 }
